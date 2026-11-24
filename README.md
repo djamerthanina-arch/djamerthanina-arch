@@ -6,15 +6,31 @@ Après deux années de parcours en informatique, j'ai eu l'occasion de découvri
 
 ### 💻 Mes compétences
 
-Au cours de ma formation, j'ai travaillé sur plusieurs technologies et outils :
+**Développement web**
 
-- **Développement web :** HTML, CSS et PHP
-- **Programmation :** Java et Python et c 
-- **Bases de données :** SQL
-- **Interfaces utilisateur :** notions d'IHM
-- **Bureautique :** Excel et VBA
-- **Réseaux :** notions d'architecture réseau et Cisco Packet Tracer
-- **Outils :** Git et GitHub
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Programmation**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Bases de données et outils**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Autres domaines**
+
+- IHM (interfaces homme-machine)
+- Réseaux informatiques
+- Cisco Packet Tracer
+- VBA
 
 ###  Mes projets
 
