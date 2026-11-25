@@ -32,14 +32,12 @@ Après deux années de parcours en informatique, j'ai eu l'occasion de découvri
 - Cisco Packet Tracer
 - VBA
 
-###  Mes projets
+### Mes projets
 
-J'utilise les projets réalisés pendant ma formation pour mettre en pratique mes connaissances, découvrir de nouvelles notions et progresser :
-
-- Un jeu de stratégie développé en Java avec une interface graphique.
-- Des projets de création et de refonte de sites web en HTML et CSS.
-- Un projet d'architecture réseau réalisé avec Cisco Packet Tracer.
-- Un projet Excel VBA consacré à l'analyse et au suivi de rendez-vous médicaux.
+- [Jeu de stratégie en Java](https://github.com/djamerthanina-arch/jeu-java) : jeu avec une interface graphique.
+- [Site web HTML/CSS](https://github.com/djamerthanina-arch/projet-html-css) : création d'un site composé de plusieurs pages.
+- Projet d'architecture réseau avec Cisco Packet Tracer.
+- Projet Excel VBA pour l'analyse et le suivi de rendez-vous médicaux.
 
 ###  Mon objectif
 
